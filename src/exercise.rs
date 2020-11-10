@@ -323,3 +323,4 @@ mod test {
         assert!(out.stdout.contains("THIS TEST TOO SHALL PASS"));
     }
 }
+
